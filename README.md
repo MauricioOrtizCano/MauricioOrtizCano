@@ -11,6 +11,14 @@ Construyo aplicaciones web de punta a punta: levantamiento de requerimientos, mo
 
 Hoy desarrollo sistemas de información para el sector educativo público. Me gusta diseñar empezando por el dominio: entender bien el problema y el negocio antes de escribir código. Vengo de la Ingeniería Industrial y actualmente estudio **Ingeniería de Software**.
 
+### Experiencia profesional
+
+**Desarrollador Full Stack · SENA, Dirección de Formación Profesional** · *feb 2025 – actualidad · remoto*
+Desarrollo full stack (Laravel + React / Next.js) de sistemas de información para la gestión de programas de formación: levantamiento de requerimientos, APIs, interfaces, versionamiento en GitHub y despliegues en desarrollo, pruebas y producción.
+
+**Desarrollador de Software · Redcayra Group Services** · *mar 2023 – nov 2024*
+Aplicaciones web con Laravel y React para la venta de cursos de Seguridad y Salud en el Trabajo, landing pages para captación de usuarios y mejora continua de los sistemas de la empresa en un equipo ágil.
+
 ### Cosas que he construido
 
 - **Plataforma de evaluación en línea, desde cero.** Modelo relacional, API REST en Laravel con acceso por token público, rate limiting y tareas programadas. Frontend en Next.js con autoguardado (con control de respuestas obsoletas), temporizador, reproductor de audio con límite de reproducciones y seis tipos de pregunta, incluidas ordenar y emparejar con drag and drop.
