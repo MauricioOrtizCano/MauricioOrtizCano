@@ -1,6 +1,6 @@
 # Hola, soy Cristian Mauricio Ortiz 👋
 
-**Desarrollador Full Stack** · Laravel · PHP · React · Next.js · MySQL
+**Desarrollador Full Stack** · React · Next.js · Laravel · PHP · MySQL
 📍 Bogotá, Colombia · Abierto a nuevas oportunidades como desarrollador Full Stack.
 
 ---
